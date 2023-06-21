@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * main - prints Holberton as a message.
+ * main - prints _putchar as a message.
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int str[] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
+	int str[] = {95, 80, 85, 84, 67, 72, 65, 82};
 	int count, sz;
 
 	sz = sizeof(str) / sizeof(int);
